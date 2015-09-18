@@ -1,4 +1,4 @@
-# NECToools
+# NECTools
 Tools for RAMCloud setup on NEC servers
 
 /*
